@@ -8,4 +8,5 @@ Task-2 is more interesting in the sense that here we detect the sequence of thes
 ![](images/model_task2.png)
 
 [1] P han, H., Hertel, L., Maaß, M., & Mertins, A. (2016). Robust Audio Event Recognition with 1-Max Pooling Convolutional Neural Networks. I NTERSPEECH.
+
 [2]: Graves, S.Fernández, F.Gomez, and J.Schmidhuber. (2006). Connectionist temporal classification: l abelling unsegmented sequence data with recurrent neural networks.
